@@ -23,23 +23,23 @@ KayMap est une application innovante conçue pour transformer la façon dont les
 - [x] L’utilisateur peut consulter les publication qui l'interesse.
 - [x] L’utilisateur peut contacter le proprietaire de la maison qui l'interesse.
 - [x] L'utilisateur peut acceder a la messagerie de l'application.
-- [ x] L'utilisateur peut payer un abonnement mensuel si il/elle et proprietaire.
+- [x] L'utilisateur peut payer un abonnement mensuel si il/elle et proprietaire.
 
 # Maybe
 
 - [x] L’utilisateur peut l'utilisateur peut utiliser l'AI integrer a l'application.
-- [x ] L’utilisateur peut mettre ses information personnel.
+- [x] L’utilisateur peut mettre ses information personnel.
 - [ ] L’utilisateur peut filtrer les offrent de maison.
 - [x] L’utilisateur peut avoir un profil personnel.
 - [x] L’utilisateur peut modifier son profil personnel(Photo, Username, Email, Password)
 
 
 # Would be nice to have
-- [ x] L'utilisateur peut changer la langue(Creole francais anglais).
+- [x] L'utilisateur peut changer la langue(Creole francais anglais).
 - [ ] L'utilisateur peut changer le thème de l'appli(Light/Dark).
-- [x ] L’utilisateur peut supprimer son compte.
-- [x ] L'utilisateur peut se deconnecter.
-- [ x] L'utilisateur peut choisir le lieu ou il veut trouver sa maison.
+- [x] L’utilisateur peut supprimer son compte.
+- [x] L'utilisateur peut se deconnecter.
+- [x] L'utilisateur peut choisir le lieu ou il veut trouver sa maison.
 - [ ] L'utilisateur peut mettre minuteur en marche lorsque sa maison est deja en location.
 
 
