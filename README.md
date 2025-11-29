@@ -1,4 +1,4 @@
-#KayMapKay
+KayMapKay
 
 KayMap est une application innovante conçue pour transformer la façon dont les Haïtiens publient et recherchent des logements à louer. La plateforme réunit les propriétaires qui souhaitent proposer leurs biens et les personnes à la recherche d’un logement, en les connectant de manière rapide, simple et sécurisée.
 
