@@ -1,5 +1,6 @@
- AletOkap
-À Cap-Haïtien, la sécurité reste encore meilleure qu’à Port-au-Prince, mais les citoyens manquent d’un outil fiable pour partager et recevoir des informations en temps réel sur les incidents autour d’eux. AlètOkap apporte une solution en permettant de signaler rapidement un incident avec localisation et photo/vidéo, d’alerter la communauté par notifications, et de visualiser les zones à risque sur une carte interactive, favorisant ainsi la vigilance et la prévention collective.
+#KayMapKay
+Map est une application innovante conçue pour transformer la façon dont les Haïtiens publient et recherchent des logements à louer. La plateforme réunit les propriétaires qui souhaitent proposer leurs biens et les personnes à la recherche d’un logement, en les connectant de manière rapide, simple et sécurisée.
+
 
 # Membres du groupe
 - Lafortune Djemima Lisha
@@ -21,23 +22,23 @@
 - [x] L’utilisateur peut consulter les publication qui l'interesse.
 - [x] L’utilisateur peut contacter le proprietaire de la maison qui l'interesse.
 - [x] L'utilisateur peut acceder a la messagerie de l'application.
-- [ ] L'utilisateur peut payer un abonnement mensuel si il/elle et proprietaire.
+- [ x] L'utilisateur peut payer un abonnement mensuel si il/elle et proprietaire.
 
 # Maybe
 
 - [x] L’utilisateur peut l'utilisateur peut utiliser l'AI integrer a l'application.
-- [ ] L’utilisateur peut mettre ses information personnel.
+- [x ] L’utilisateur peut mettre ses information personnel.
 - [ ] L’utilisateur peut filtrer les offrent de maison.
 - [x] L’utilisateur peut avoir un profil personnel.
 - [x] L’utilisateur peut modifier son profil personnel(Photo, Username, Email, Password)
 
 
 # Would be nice to have
-- [ ] L'utilisateur peut changer la langue(Creole francais anglais).
+- [ x] L'utilisateur peut changer la langue(Creole francais anglais).
 - [ ] L'utilisateur peut changer le thème de l'appli(Light/Dark).
-- [ ] L’utilisateur peut supprimer son compte.
-- [ ] L'utilisateur peut se deconnecter.
-- [ ] L'utilisateur peut choisir le lieu ou il veut trouver sa maison.
+- [x ] L’utilisateur peut supprimer son compte.
+- [x ] L'utilisateur peut se deconnecter.
+- [ x] L'utilisateur peut choisir le lieu ou il veut trouver sa maison.
 - [ ] L'utilisateur peut mettre minuteur en marche lorsque sa maison est deja en location.
 
 
